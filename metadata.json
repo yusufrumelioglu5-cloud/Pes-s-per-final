@@ -1,0 +1,6 @@
+{
+  "name": "PES Turnuva",
+  "description": "PES Super World Cup League/Tournament Manager",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
